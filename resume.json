@@ -1,0 +1,38 @@
+{
+  "basics": {
+    "name": "Matías Román Camilletti",
+    "label": "Electronics engineer",
+    "image": "",
+    "email": "mrcamilletti@gmail.com",
+    "phone": "(+54) 9 2954 297558",
+    "url": "<url>",
+    "summary": "<summary>",
+    "location": {
+      "address": "Cesar Rodriguez 2133",
+      "postalCode": "6300",
+      "city": "Santa Rosa",
+      "countryCode": "AR",
+      "region": "La Pampa"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "matias-camilletti",
+      "url": "https://www.linkedin.com/in/mat%C3%ADas-camilletti-1b629330/"
+    }]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [{
+    "language": "English",
+    "fluency": "Fluent"
+  }],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
+
