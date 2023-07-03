@@ -1,5 +1,5 @@
 name: Publish resume in JSONResume format as Github Page
- 
+
 on:
   push:
     branches: [ master ]
