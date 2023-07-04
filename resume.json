@@ -121,6 +121,6 @@
       "startDate": "Invalid date",
       "summary": "Las vacas al ingresar a la sala de ordeñe son identificadas por medio de un lector RFID y su correspondiente caravana electrónica. Los datos de número de caravana y orden de ingreso son enviados al sistema de control central. El sistema de control central asignará la ración a cada individuo a través de un algoritmo parametrizable (predice cuanto alimento deben comer las vacas en ordeñe para aumentar producción y ahorrar alimento).",
       "url": "https://farmerin.com.ar/"
-    }
+    }]
 }
 
