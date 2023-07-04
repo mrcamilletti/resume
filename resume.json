@@ -6,7 +6,7 @@
     "email": "mrcamilletti@gmail.com",
     "phone": "(+54) 9 2954 297558",
     "url": "<url>",
-    "summary": ["Me considero un apasionado de la electrónica, entusiasta del Open Source y del Open Hardware. Constantemente me estoy capacitando para estar al día con las últimas herramientas de desarrollo y tendencias en tecnología informática. Tengo experiencia en manejo de Linux (de escritorio y sistemas embebidos), manejo y programación en C y C++ de microcontroladores en varias arquitecturas , diseño y construcción de circuitos electrónicos para proyectos IoT e investigación en robótica y sistemas digitales aplicados a AgTechs. Soy padre (sí, mi familia es una prioridad), guitarrista autodidacta y amante de la música.", "Other"],
+    "summary": "I consider myself passionate about electronics, an enthusiast of Open Source and Open Hardware. I am constantly training myself to be up to date with the latest development tools and trends in computer technology. I have experience in handling Linux environments (desktop and embedded), firmware programming in C and C++ for 8 and 32-bit microcontrollers, design and construction of electronic circuits for IoT projects and research in robotics and digital systems applied to AgTechs. I am a father (yes, my family is a top priority), a self-taught guitar player and a music lover."
     "location": {
       "address": "Cesar Rodriguez 2133",
       "postalCode": "6300",
@@ -20,9 +20,63 @@
       "url": "https://www.linkedin.com/in/mat%C3%ADas-camilletti-1b629330/"
     }]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Autónomo",
+      "position": "Ingeniero electrónico",
+      "website": "",
+      "startDate": "2021-07-01",
+      "summary": "Desarrollador part-time.",
+      "highlights": []
+    },
+    {
+      "company": "Instituto Tecnológico de Educación Superior",
+      "position": "Professor",
+      "website": "",
+      "startDate": "2015-03-01",
+      "summary": "Dictado de clases (3hs semanales) Guiar a los alumnos en el aprendizaje (y aprender de ellos también) Planificación de clases Búsqueda y mantenimiento del material de trabajo y estudio Comunicacion de eventos y material por medio de un sistema de aula virtual. Evaluación y corrección de exámenes.",
+      "highlights": [],
+      "endDate": "2018-03-01"
+    },
+    {
+      "company": "INTA",
+      "position": "Profesional de Gestión Externa",
+      "website": "",
+      "startDate": "2014-08-01",
+      "summary": "Investigador de INTA en EEA \"Ing. Agr. Guillermo Covas\" Anguil en el grupo de Producción, Mejoramiento y Sanidad Animal, Nutrición y Calidad de Productos.  Desarrollador e investigador en TICs para la innovación en Ganadería de Precisión. -- 2022 - Integrante de Comité Coordinador del Convenio de Vinculación Tecnológica INTA – FARMERIN DIVISION S.A.  2019 - Profesional de Gestión Externa dentro del grupo Producción, Mejoramiento y Sanidad Animal, Nutrición y Calidad de Productos.  2018 - Técnico en investigación en Convenio de Cooperación Científica INTA - CQUniversity Australia.",
+      "highlights": []
+    },
+    {
+      "company": "Universidad Nacional del Sur",
+      "position": "Ayudante de Docencia",
+      "website": "",
+      "startDate": "2012-01-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2014-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional del Sur",
+      "area": "",
+      "studyType": "Engineer's degree",
+      "startDate": "2005-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2013-12-31"
+    },
+    {
+      "institution": "Universidad Nacional de La Pampa",
+      "area": "",
+      "studyType": "Licenciatura",
+      "startDate": "2004-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2005-12-31"
+    }
+  ],
   "volunteer": [],
-  "education": [],
   "awards": [],
   "certificates": [],
   "publications": [],
@@ -30,9 +84,43 @@
   "languages": [{
     "language": "English",
     "fluency": "Fluent"
+  },{
+    "language": "Español",
+    "fluency": "Native or bilingual proficiency"
   }],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "name": "Algoritmo heurístico para optimizar el tiempo de trazado de un plotter o fresadora",
+      "startDate": "Invalid date",
+      "summary": "",
+      "url": "",
+      "endDate": "Invalid date"
+    },
+    {
+      "name": "Termostato inteligente para climatización del hogar",
+      "startDate": "Invalid date",
+      "summary": "Se trata de un sistema el cual se coloca en el lugar de un termostato convencional para el control de calefacción hogar, el cual además se conecta a la red Wi-Fi doméstica proveyendo funciones de programación en forma interactiva, y de donde toma información de la presencia de ocupantes de la casa para poder personalizar su funcionamiento y hacer un uso eficiente de la energía.",
+      "url": ""
+    },
+    {
+      "name": "R4INTA: Plataforma móvil multidisciplinaria diseñada para el cultivo en invernaderos",
+      "startDate": "Invalid date",
+      "summary": "Plataforma móvil con inteligencia artificial que asiste al productor en el cultivo de dentro de un invernadero. Le permite realizar tareas en forma tanto autónoma (trabajo programado) como a distancia desde un mando (joystick o teclado) conectado a una PC. El software del sistema utiliza herramientas libres y el hardware se puede construir con bajo costo y elementos accesibles en el mercado. Las tareas dependerán del equipo que este montado sobre esta plataforma, pudiendo ser de observación, adquisisción de datos, pulverización, cosecha, muestreo, etc.",
+      "url": ""
+    },
+    {
+      "name": "Comederos inteligentes para análisis de consumo individual en rodeo determinado",
+      "startDate": "Invalid date",
+      "summary": "INTA E.E.A. Anguil - La Pampa  Desde la perspectiva de Internet de las Cosas, la innovación permite evaluar el consumo individual y el comportamiento de cada animal perteneciente a un rodeo determinado. Se basa en la automatización, desarrollo y optimización de comederos inteligentes, para el monitoreo del consumo y comportamiento individual del ganado ovino y bovino, adaptable a otro tipo de producciones. A partir de proveer de información precisa, este sistema hace posible, entre varias utilidades/aplicaciones, seleccionar aquellos individuos que son más eficientes desde el punto de vista de la conversión del alimento a carne",
+      "url": "http://intainforma.inta.gov.ar/?p=44068"
+    },
+    {
+      "name": "Sistema de identificación y suplementación inteligente de individuos en tambos",
+      "startDate": "Invalid date",
+      "summary": "Las vacas al ingresar a la sala de ordeñe son identificadas por medio de un lector RFID y su correspondiente caravana electrónica. Los datos de número de caravana y orden de ingreso son enviados al sistema de control central. El sistema de control central asignará la ración a cada individuo a través de un algoritmo parametrizable (predice cuanto alimento deben comer las vacas en ordeñe para aumentar producción y ahorrar alimento).",
+      "url": "https://farmerin.com.ar/"
+    }
 }
 
